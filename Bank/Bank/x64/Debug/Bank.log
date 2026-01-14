@@ -1,0 +1,66 @@
+﻿  Bank.cpp
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUtil.h(60,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank.cpp')
+      C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsBankClient.h(181,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank.cpp')
+      C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsBankClient.h(146,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsAddNewClientScreen.h(32,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUpdateClientScreen.h(49,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsDepositScreen.h(56,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsWithdrawScreen.h(56,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsTransferScreen.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsTransferScreen.h(49,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsDeleteUserScreen.h(64,25): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUpdateCurrencyRateScreen.h(14,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsBankClient.h(345,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsBankClient.h(49,1): warning C4715: 'clsBankClient::_LoadDataClientFromFile': not all control paths return a value
+C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\Bank\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank.vcxproj -> C:\Users\User\Desktop\Abdallah\BTEC\c++\oop-projects\Bank\x64\Debug\Bank.exe
