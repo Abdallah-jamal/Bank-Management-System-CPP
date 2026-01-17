@@ -87,6 +87,11 @@ public:
 
             _ReadClientInfo(client);
         }
+        else
+        {
+               cout << "\n\nClient update canceled....\n";
+               return;
+        }
 
         clsBankClient::enSaveResults saveResult;
 
@@ -104,4 +109,5 @@ public:
             break;
         }
     }
+
 };
